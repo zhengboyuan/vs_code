@@ -15,9 +15,10 @@ print(
 def fuc(a, b):
     c = a + b
     c = c
-    
+
     return c
 
 
 fuc(4, 1)
 fuc1(4, 18)
+fuc2(4, 18)
