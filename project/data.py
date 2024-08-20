@@ -20,4 +20,4 @@ def fuc(a, b):
 
 
 fuc(4, 1)
-fuc1(4, 1)
+fuc1(4, 14)
